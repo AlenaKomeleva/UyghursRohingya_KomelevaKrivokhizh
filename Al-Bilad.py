@@ -1,4 +1,3 @@
-# Аль-Биляд
 import requests # requests package allows to open websites
 from bs4 import BeautifulSoup # package BeautifulSoup works with the context of the web page
 
